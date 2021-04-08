@@ -16,11 +16,11 @@ public class SozelOlarakOzet {
 	 * overriding method'un return type'i da ayni olmali.
 	 * (Parent Class RETURN TYPE PRIMITIVE veya VOID ise Chil Class'da ayni olmak ZORUNDA)
 	 * 
-	 * eger return type primitive degilse (overriding method'un return type'i) IS-A (overridden method'un return type'i) olmalidir. 
+	 * Eger return type primitive degilse (overriding method'un return type'i) IS-A (overridden method'un return type'i) olmalidir. 
 	 * 
-	 * Eger variable'a ulasmak istersek Data Type'a bakiyoruz fakat Method'a gidiyorsak Constructor'a bakariz. (Override durumlari icin hatirlatma
+	 * Eger variable'a ulasmak istersek Data Type'a bakiyoruz fakat Method'a gidiyorsak Constructor'a bakariz. (Override durumlari icin hatirlatma)
 	 * 
-	 * Bu ikisini sonra gorecegiz
+	 * Bu ikisini sonra gorecegiz.
 	 * 5) Child class’daki method (overriding method), parent class’daki method’un (overridden method) compile tim 
 	 * edip etmedigine bakmaksizin compile time exception throw edebilir. Fakat child class’daki method (overriding method), parent class’daki
 	 * method’dan (overridden method) daha bir run time exception throw edemez.
