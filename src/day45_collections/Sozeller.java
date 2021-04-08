@@ -1,4 +1,4 @@
-package day45_iterators;
+package day45_collections;
 
 public class Sozeller {
 
