@@ -43,7 +43,7 @@ public interface Interface_Sozeller {
 	   Interface'lar icin Inheritance Kurallari :
 	   
 	   1) Interface'lerde inheritance yapmak icin implements keyword'u kullanilir.
-	   Class extends Class || Class implements Interfase || Interface extends Interface
+	   Class extends Class || Class implements Interface || Interface extends Interface
 	   
 	   2) Bir class birden fazla Interface'e implements ile baglanabilir
 	   public class Arabam impelents ElektrikMotor, OtomatikVites, Seda { } 

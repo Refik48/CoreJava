@@ -60,7 +60,7 @@ public class C1_Queue01 {
 		
 		System.out.println("\n=====Queue poll=====");
 		System.out.println("Queue k2 : " + k2); // [N, E]
-		k2.poll();
+		System.out.println(k2.poll());
 		System.out.println("Queue k2 : " + k2); // [E]
 		k2.poll();
 		System.out.println("Queue k2 : " + k2); // []

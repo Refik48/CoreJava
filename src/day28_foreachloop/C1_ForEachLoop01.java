@@ -24,6 +24,7 @@ public class C1_ForEachLoop01 {
 			// Array'a git butun integer'larini bir bir bana getir demektir. 
 			System.out.print(each + " "); 
 		}
+		
 		// int.02yni oldugu surece oraya ne yazdigimiz farketmiyor sayi each w alo veli falan...
 		// ama en cok w ve each kullaniliyor.
 		// ********************************************************************************************************************************
